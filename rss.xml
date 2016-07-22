@@ -4,8 +4,15 @@
         <description><![CDATA[live machines]]></description>
         <link>https://thegrid.ai/marceloooo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:43:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marceloooo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Menu Material Fixed]]></title>
+            <description><![CDATA[<article><h1>Menu Material Fixed</h1><p>This is a super fast example page whit a super duper material menu button ! :)</p></article>]]></description>
+            <link>http://www.materialup.com/posts/menu-material-fixed</link>
+            <guid isPermaLink="false">89d2c4e8-25d6-4f3d-9cf4-1c7714c2f012</guid>
+            <pubDate>Fri, 22 Jul 2016 14:43:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Use Your Smartphone as Your Car Key with an NFC Lock | Make:]]></title>
             <description><![CDATA[<article><h1>Use Your Smartphone as Your Car Key with an NFC Lock | Make:</h1><p>Today, most cars allow wireless unlocking, but some newer models have started to use a NFC login system (like NXP car's showing on the MWC) so you can use your smartphone as a key. With this tutorial, you will be able to easily build your own NFC door control with a Keyduino or an NFC shield and a relay shield in only a few hours.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc4d2f39d97d48c73d7c31c5684c3f1e/noop.jpg?input=http%3A%2F%2Fmakezine.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fnfcphone.jpg"></article>]]></description>
