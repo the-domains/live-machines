@@ -1,14 +1,14 @@
-layout_spectrum: 0.6543577876873314
-typography_spectrum: 0.9631117100361735
+layout_spectrum: 0.07801501476205885
+typography_spectrum: 0.5935251810587943
 color:
-  brandStrength: 0.9496073930058628
-  lightness: 0.5569259598851204
-  saturation: 0.4438130862545222
-  rhythmicContrast: 0.9011107846163213
+  brandStrength: 0.20721480855718255
+  lightness: 0.238127029966563
+  saturation: 0.24167877971194685
+  rhythmicContrast: 0.3522002336103469
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
 name: live machines
