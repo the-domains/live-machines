@@ -1,4 +1,3 @@
-layout_spectrum: 0.07801501476205885
 typography_spectrum: 0.5935251810587943
 color:
   brandStrength: 0.20721480855718255
@@ -11,5 +10,7 @@ color:
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
+layout_spectrum: 0.07801501476205885
 name: live machines
 title: LiveMachines
+description: Creative things not so cr
